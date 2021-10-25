@@ -8,7 +8,9 @@
 🌱 I’m currently learning Rails and React
 
 📫 How to reach me: https://www.linkedin.com/in/muhammed-serhat-t%C3%BCrkmen/
+
 📫 HackerRank Profile: https://www.hackerrank.com/mserhatturkmen1
+
 📫 Patika.dev Profile: https://app.patika.dev/serhatturkmen
 
 
