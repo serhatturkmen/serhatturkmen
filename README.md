@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+🧑‍💻 I’m currently working Rails Developer at Protein
 
 🎓 I'm currently studying Computer Technologies and Information Systems at Trakya University.
 
