@@ -4,9 +4,9 @@
 
 🎓 I'm currently studying Computer Technologies and Information Systems at Trakya University.
 
-🔭 I’m currently working on React Native, Python Flask and NodeJs
+🔭 I’m currently working on Ruby on Rails
 
-🌱 I’m currently learning Rails and React
+🌱 I’m currently learning React, React Native, Python Flask and NodeJs
 
 📫 How to reach me: https://www.linkedin.com/in/muhammed-serhat-t%C3%BCrkmen/
 
