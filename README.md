@@ -2,7 +2,7 @@
 
 🧑‍💻 I’m currently working Rails Developer at Protein
 
-🎓 I'm currently studying Computer Technologies and Information Systems at Trakya University.
+🎓 I'm graduated Computer Technologies and Information Systems at Trakya University.
 
 🔭 I’m currently working on Ruby on Rails
 
